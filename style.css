@@ -98,12 +98,12 @@ h1{
 .attribution { font-size: 20px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
-@media[max-width: 1024px) {
+@media(max-width: 1024px) {
     .container{
         width: 52rem;
     }
 }
-@media (max-width: 620px) {
+@media (max-width: 768px) {
     .container{
         width: 20rem;
         height: 36rem;
