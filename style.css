@@ -103,7 +103,7 @@ h1{
         width: 52rem;
     }
 }
-@media (max-width: 768px) {
+@media (max-width: 620px) {
     .container{
         width: 20rem;
         height: 36rem;
