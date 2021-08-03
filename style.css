@@ -165,11 +165,19 @@ h1{
 
 }
 @media(max-width: 620px){
-    width: 33.5rem;
+    .box{
+        width: 33.5rem;
+    }
 }
 @media(max-width: 425px){
+    box{
     width: 28rem;
+    }
+    
 }
 @media(max-width: 375px){
+    box{
     width: 26rem;
+    }
+    
 }
